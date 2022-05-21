@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Desktop\GAME NAME\bin\Debug\Snake.exe.config
+C:\Users\david\OneDrive\Desktop\GAME NAME\bin\Debug\Snake.exe
+C:\Users\david\OneDrive\Desktop\GAME NAME\bin\Debug\Snake.pdb
+C:\Users\david\OneDrive\Desktop\GAME NAME\bin\Debug\Interop.WMPLib.dll
+C:\Users\david\OneDrive\Desktop\GAME NAME\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\david\OneDrive\Desktop\GAME NAME\obj\Debug\Clicker_Hero.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\GAME NAME\obj\Debug\Interop.WMPLib.dll
+C:\Users\david\OneDrive\Desktop\GAME NAME\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\david\OneDrive\Desktop\GAME NAME\obj\Debug\Clicker_Hero.csproj.ResolveComReference.cache
+C:\Users\david\OneDrive\Desktop\GAME NAME\obj\Debug\Clicker_Hero.Form1.resources
+C:\Users\david\OneDrive\Desktop\GAME NAME\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\david\OneDrive\Desktop\GAME NAME\obj\Debug\Clicker_Hero.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Desktop\GAME NAME\obj\Debug\Clicker_Hero.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\GAME NAME\obj\Debug\Snake.exe
+C:\Users\david\OneDrive\Desktop\GAME NAME\obj\Debug\Snake.pdb

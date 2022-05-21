@@ -1,0 +1,25 @@
+C:\Users\david\OneDrive\Desktop\Clicker Hero\bin\Debug\Clicker Hero.exe.config
+C:\Users\david\OneDrive\Desktop\Clicker Hero\bin\Debug\Clicker Hero.exe
+C:\Users\david\OneDrive\Desktop\Clicker Hero\bin\Debug\Clicker Hero.pdb
+C:\Users\david\OneDrive\Desktop\Clicker Hero\obj\Debug\Clicker Hero.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\Clicker Hero\obj\Debug\Clicker_Hero.Form1.resources
+C:\Users\david\OneDrive\Desktop\Clicker Hero\obj\Debug\Clicker_Hero.Properties.Resources.resources
+C:\Users\david\OneDrive\Desktop\Clicker Hero\obj\Debug\Clicker Hero.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Desktop\Clicker Hero\obj\Debug\Clicker Hero.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\Clicker Hero\obj\Debug\Clicker Hero.exe
+C:\Users\david\OneDrive\Desktop\Clicker Hero\obj\Debug\Clicker Hero.pdb
+C:\Users\david\OneDrive\Desktop\GAME NAME\bin\Debug\Clicker Hero.exe.config
+C:\Users\david\OneDrive\Desktop\GAME NAME\bin\Debug\Clicker Hero.exe
+C:\Users\david\OneDrive\Desktop\GAME NAME\bin\Debug\Clicker Hero.pdb
+C:\Users\david\OneDrive\Desktop\GAME NAME\obj\Debug\Clicker Hero.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\GAME NAME\obj\Debug\Clicker_Hero.Form1.resources
+C:\Users\david\OneDrive\Desktop\GAME NAME\obj\Debug\Clicker_Hero.Properties.Resources.resources
+C:\Users\david\OneDrive\Desktop\GAME NAME\obj\Debug\Clicker Hero.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Desktop\GAME NAME\obj\Debug\Clicker Hero.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\GAME NAME\obj\Debug\Clicker Hero.exe
+C:\Users\david\OneDrive\Desktop\GAME NAME\obj\Debug\Clicker Hero.pdb
+C:\Users\david\OneDrive\Desktop\GAME NAME\obj\Debug\Interop.WMPLib.dll
+C:\Users\david\OneDrive\Desktop\GAME NAME\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\david\OneDrive\Desktop\GAME NAME\obj\Debug\Clicker Hero.csproj.ResolveComReference.cache
+C:\Users\david\OneDrive\Desktop\GAME NAME\bin\Debug\Interop.WMPLib.dll
+C:\Users\david\OneDrive\Desktop\GAME NAME\bin\Debug\AxInterop.WMPLib.dll
